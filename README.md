@@ -54,3 +54,11 @@ Parameters:
 - `size` = 32, 48, 64 (size in pixels, only 32 available with current models)
 - `n_samples` - 1,2,4,6,8 (any int)
 - `image_path` - path to image (only when generate from primer)
+
+## Results
+
+`ImageGPT-Notebook.ipynb` with default `test_input.jpg`
+![./sample-primer.jpg](./sample-primer.png)
+
+`ImageGPT-Notebook-RANDOM_SAMPLE.ipynb` with random sampling
+![./sample-random.jpg](./sample-random.png)
