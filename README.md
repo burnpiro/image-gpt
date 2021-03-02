@@ -58,7 +58,13 @@ Parameters:
 ## Results
 
 `ImageGPT-Notebook.ipynb` with default `test_input.jpg`
-![./sample-primer.jpg](./sample-primer.png)
+![./sample-primer.jpg](generated/sample-primer.png)
 
 `ImageGPT-Notebook-RANDOM_SAMPLE.ipynb` with random sampling
-![./sample-random.jpg](./sample-random.png)
+![./sample-random.jpg](generated/sample-random.png)
+
+`ImageGPT-Notebook.ipynb` with default [Baby Yoda](https://www.vectorkhazana.com/assets/images/products/Disney-Baby-Yoda-Disney.jpg)
+![./sample-primer.jpg](generated/yoda-gen.png)
+
+Enhanced version (with [ESRGAN](https://github.com/xinntao/ESRGAN#esrgan-enhanced-srgan-rocket-basicsredvr))
+![./sample-primer.jpg](generated/yoda-ench.png)

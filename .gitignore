@@ -4,3 +4,5 @@ models/
 out/*.png
 /copies/
 /.ipynb_checkpoints/
+/.idea/
+/clusters/kmeans_centers.npy
