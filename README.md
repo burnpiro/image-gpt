@@ -6,7 +6,7 @@ Code and models from the paper ["Generative Pretraining from Pixels"](https://cd
 
 Supported Platforms:
 
-- Ubuntu 16.04
+- Ubuntu 18.04
 
 ## Install
 
@@ -34,6 +34,7 @@ jupyter notebook
 
 - `ImageGPT-Notebook.ipynb` - generate samples base on image
 - `ImageGPT-Notebook-RANDOM_SAMPLE.ipynb` - generate fully random samples
+- `9bit color coding example.ipynb` - how images are color coded with 9bit color palette
 
 ## Run from console (only when you have downloaded models and color clusters)
 
@@ -54,6 +55,7 @@ Parameters:
 - `size` = 32, 48, 64 (size in pixels, only 32 available with current models)
 - `n_samples` - 1,2,4,6,8 (any int)
 - `image_path` - path to image (only when generate from primer)
+- `seed` - `0` means random seed, if you want anything else just set the seed  
 
 ## Results
 
