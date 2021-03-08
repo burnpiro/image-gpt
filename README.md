@@ -1,4 +1,4 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+This is a fork of the original iGPT repo, I've modified the code to enable primer base autoaggressive image generation which wasn't avaiable out of the box. Please follow the notebooks for more details.
 
 # image-gpt
 
